@@ -2,4 +2,5 @@
 
 1. Pixel Art Generator
 2. Detect Internet Speed
-3. TardingView using API
+3. Password Generator
+4. TardingView using API
